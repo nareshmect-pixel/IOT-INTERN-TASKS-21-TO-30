@@ -20,6 +20,7 @@ To detect flame-like conditions using an LDR sensor module and activate an alarm
 | VCC | 5V |
 | GND | GND |
 | AO | A0 |
+| DO | D2 |
 
 ### LED
 
