@@ -26,7 +26,7 @@ Buzzer:
 - Negative → GND
 
 ## Working
-The potentiometer simulates gas concentration. When the gas level exceeds a threshold, the LED and buzzer are activated.
+The GAS SENSOR simulates gas concentration. When the gas level exceeds a threshold, the LED and buzzer are activated.
 
 ## Result
 Gas leakage detection system successfully simulated in Tinkercad.
