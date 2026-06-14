@@ -12,10 +12,10 @@ To detect gas leakage and activate an alarm system.
 
 ## Connections
 
-Potentiometer:
-- Left Pin → 5V
-- Middle Pin → A0
-- Right Pin → GND
+Gas sensor:
+- VCC → 5V
+- AOUT → A0
+- GND → GND
 
 LED:
 - Anode → D7
